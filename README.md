@@ -1,6 +1,7 @@
 # 🧠 Automated Psychological Analysis of Children's Drawings Using Machine Learning
 
-![Project Poster](POSTER.png) <!-- Proje posterini bu satıra koy, proje klasöründe `POSTER.png` ismiyle yer alsın -->
+![POSTER](https://github.com/user-attachments/assets/85100f81-0418-487b-bbeb-60b9a17cea03)
+
 
 ## 🎯 Project Overview
 
